@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Raw Data
+data/raw/
+
+# Generated/Processed Data
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
